@@ -3,6 +3,13 @@
         "getgenv",
         "hookmetamethod",
         "setreadonly",
-        "newcclosure"
+        "newcclosure",
+        "fireproximityprompt",
+        "decompile",
+        "getnilinstances",
+        "getinstances",
+        "Drawing",
+        "listfiles",
+        "loadfile"
     ]
 }
